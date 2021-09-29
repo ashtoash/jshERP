@@ -34,9 +34,9 @@
     <span class="action">
       <a-tooltip>
         <template slot="title">官方网站</template>
-        <a target="_blank" :href="systemUrl">
+        <!--a target="_blank" :href="systemUrl">
           <a-icon type="bank" style="font-size: 16px;" />
-        </a>
+        </a -->
       </a-tooltip>
     </span>
     <header-notice class="action"/>
